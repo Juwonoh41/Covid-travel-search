@@ -1,4 +1,4 @@
 var environment = {
-    "theClientID":"D98xiSbhvHJl5oqdS0MKHsVB5GFmKCHJ",
-    "theClientSecret": "GHpH5yEpRKqWuuoR"
+    "theClientID":"rJL8y2svMwzpEmAwxAN09miq3WNrPza9",
+    "theClientSecret": "KBaDXNkt1COjjoim"
 }
